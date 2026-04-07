@@ -38,15 +38,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrar2050&theme=tokyonight" />
-</p>
-
----
-
-## 💻 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrar2050&layout=compact&theme=tokyonight" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrar2050&theme=tokyonight" /> -->
 </p>
 
 ---
